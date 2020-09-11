@@ -31,7 +31,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.0.1",
-    "node-fetch": "^1.7.1"
+    "node-fetch": "^2.6.1"
   },
   "engines": {
     "node": "6.10.2"
